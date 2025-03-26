@@ -1,4 +1,4 @@
 .ipynb_checkpoints
-data/raw/
-data/pq/
-data/fhvhv_tripdata_2021-01.csv.gz
+data/*
+tmp/
+zones/
