@@ -19,7 +19,7 @@ PySpark_Practice
 │  ├─ spark_sql_localcluster.ipynb
 │  └─ taxi_schema.ipynb
 ├─ README.md
-├─ scripts
+└─ scripts
    ├─ download_data.sh
    └─ spark_sql_localcluster.py
 ```
