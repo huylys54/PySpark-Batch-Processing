@@ -20,8 +20,8 @@ PySpark_Practice
 │  └─ taxi_schema.ipynb
 ├─ README.md
 ├─ scripts
-│  ├─ download_data.sh
-│  └─ spark_sql_localcluster.py
+   ├─ download_data.sh
+   └─ spark_sql_localcluster.py
 ```
 
 ### Key Components
