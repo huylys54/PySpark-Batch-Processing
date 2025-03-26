@@ -1,7 +1,7 @@
 # PySpark Batch Processing - Learning and Practice
 
 This repository contains PySpark notebooks and scripts for learning and practicing batch processing concepts. The focus is on working with large datasets, performing transformations, and generating insights using PySpark.
-Note: Some of the notebooks already have download cells so you don't need to download all the datas by yourself :)
+Note: Some of the notebooks already had download cells so you don't need to download all the datas by yourself :)
 ## Folder Structure
 
 ```
