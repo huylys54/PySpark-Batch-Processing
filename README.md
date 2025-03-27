@@ -48,8 +48,8 @@ To run the notebooks and scripts, ensure you have the following installed:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/huylys54/PySpark_Practice.git
-   cd PySpark_Practice
+   git clone https://github.com/huylys54/PySpark-Batch-Processing.git
+   cd PySpark-Batch-Processing
    ```
 
 2. Install dependencies:
