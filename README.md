@@ -5,7 +5,7 @@ Note: Some of the notebooks already had download cells so you don't need to down
 ## Folder Structure
 
 ```
-PySpark_Practice
+PySpark-Batch-Processing
 ├─ data/
 ├─ lib
 │  └─ gcs-connector-hadoop3-latest.jar
